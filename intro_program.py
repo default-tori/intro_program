@@ -1,12 +1,9 @@
 print("Hello User")
-Hello User
 name= "NiNeD_EyE"
 print("I am", name)
-I am NiNeD_EyE
 name= input("What is your name?") # Ask User for their name
-What is your name?Tori
+What is your name?
 print("Hello", name, "!") # Greet them
-Hello Tori !
 while True:
      name= input("What is your name?") # Ask User for their name
      print("Hello", name, "!") # Greet them
